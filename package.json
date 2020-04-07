@@ -31,6 +31,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "json": "^9.0.6",
+    "pure-react-carousel": "^1.26.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",

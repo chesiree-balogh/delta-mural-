@@ -62,9 +62,8 @@ const HomePage = () => {
         </section>
       </section>
       <footer>
-        <section class="footerName">
-          Mural Pass (or whatever we name it)
-        </section>
+        <section class="footerName">Mural Pass</section>
+        <section>Get out and Discover!</section>
         <section class="socialMedia">*smaller app logo here*</section>
       </footer>
     </>

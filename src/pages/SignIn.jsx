@@ -13,6 +13,7 @@ const SignIn = () => {
       </section>
       <section>
         <p>Don't have an account?</p>
+        <button>Sign Up</button>
       </section>
     </>
   )
